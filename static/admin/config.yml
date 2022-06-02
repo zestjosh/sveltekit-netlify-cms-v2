@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: zestjosh/one-click-hugo-cms
   branch: main
 collections:
   - name: routes
